@@ -1,5 +1,31 @@
 {
- "generated_at": "2026-10-15T00:58:33.729Z",
- "count": 0,
- "events": []
+ "generated_at": "2026-10-15T01:26:23.452Z",
+ "count": 1,
+ "events": [
+  {
+   "id": 40,
+   "title": "生成式 AI時代的資安威脅與深偽防禦實務",
+   "audience": "teacher",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "start_time": "09:00",
+   "end_time": "11:30",
+   "deadline": "2026-11-01",
+   "host": "資訊科技學科中心-國立臺南第二高級中學",
+   "location": "meet.google.com/jhx-zekw-rro",
+   "mode": "online",
+   "course_code": "5764005",
+   "signup_url": "https://reurl.cc/oybj6V",
+   "hours": "3",
+   "summary": "協助教師了解生成式AI資安威脅、深偽防禦與資訊辨識，建立資安防護觀念。",
+   "tags": [
+    "AI",
+    "資安",
+    "資訊"
+   ],
+   "pdf": "https://drive.google.com/file/d/1nVSbpyDuoIdpakcCh3uSi0g4cMiR6C6s/view",
+   "attachments": [],
+   "added": "2026-10-15"
+  }
+ ]
 }
