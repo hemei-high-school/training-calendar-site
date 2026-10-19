@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T01:46:16.681Z",
- "count": 6,
+ "generated_at": "2026-10-19T01:55:10.492Z",
+ "count": 5,
  "events": [
   {
    "id": 42,
@@ -71,32 +71,12 @@
     "AI"
    ],
    "pdf": "https://drive.google.com/file/d/1YIGiQMSCpBsIQ6WNOzSaZe5GEMURY2A9/view",
-   "attachments": [],
-   "added": "2026-10-19"
-  },
-  {
-   "id": 46,
-   "title": "AI 賦能教與學工作坊: Gemini NoteBook & Canvas & GAS部屬實戰,打造前後台連動的教學系統",
-   "audience": "teacher",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "start_time": "09:00",
-   "end_time": "16:00",
-   "deadline": "2026-10-26",
-   "host": "臺北市立中正高級中學",
-   "location": "臺北市立中正高級中學 圖書館2樓",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "https://lin.ee/PnZ1vtE",
-   "hours": "3",
-   "summary": "運用AI工具優化教學資源、重塑課程設計、提升自主學習與協作能力。",
-   "tags": [
-    "AI",
-    "資訊",
-    "科技"
+   "attachments": [
+    {
+     "name": "1151110中正高中-AI賦能教與學工作坊-研習內容.pdf",
+     "url": "https://drive.google.com/file/d/1VHxyaKQSfmx1nMV4ZBjTOISba-cziUdf/view"
+    }
    ],
-   "pdf": "https://drive.google.com/file/d/1VHxyaKQSfmx1nMV4ZBjTOISba-cziUdf/view",
-   "attachments": [],
    "added": "2026-10-19"
   },
   {
