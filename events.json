@@ -1,7 +1,104 @@
 {
- "generated_at": "2026-10-16T09:41:31.392Z",
- "count": 1,
+ "generated_at": "2026-10-19T01:46:16.681Z",
+ "count": 6,
  "events": [
+  {
+   "id": 42,
+   "title": "AI 賦能教學與行政—Codex 實戰應用工作坊",
+   "audience": "teacher",
+   "start": "2026-10-21",
+   "end": "2026-11-04",
+   "start_time": "13:00",
+   "end_time": "15:00",
+   "deadline": "",
+   "host": "新北市私立徐匯高級中學",
+   "location": "Google Meet",
+   "mode": "online",
+   "course_code": "",
+   "signup_url": "https://forms.gle/je6M2mWE2rYkvD7t9",
+   "hours": "2",
+   "summary": "實作AI工具Codex，製作課堂教具、處理行政工作，建立教學網站，促進跨校交流。",
+   "tags": [
+    "AI",
+    "程式",
+    "行政"
+   ],
+   "pdf": "https://drive.google.com/file/d/14rvyWFdKNHJ1KXIGpH3VwsYHy92L16JT/view",
+   "attachments": [],
+   "added": "2026-10-19"
+  },
+  {
+   "id": 43,
+   "title": "運用AI Agent (ChatGPT)建立個人化自動化工作流研習",
+   "audience": "teacher",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "start_time": "13:10",
+   "end_time": "16:00",
+   "deadline": "2026-10-23",
+   "host": "臺北市立中崙高級中學",
+   "location": "臺北市立中崙高級中學4樓圖書館小會議室",
+   "mode": "onsite",
+   "course_code": "",
+   "signup_url": "https://forms.gle",
+   "hours": "",
+   "summary": "運用AI Agent (ChatGPT)建立個人化自動化工作流研習，適合對AI工具感興趣的高中教師。",
+   "tags": [
+    "AI",
+    "資訊"
+   ],
+   "pdf": "https://drive.google.com/file/d/1FxC8UhEcxUhow3kahUj0yznh2ehu1It_/view",
+   "attachments": [],
+   "added": "2026-10-19"
+  },
+  {
+   "id": 45,
+   "title": "2026學年度第1學期教育部高中優質化輔助方案及前導學校AI賦能教與學工作坊",
+   "audience": "teacher",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "start_time": "09:00",
+   "end_time": "16:00",
+   "deadline": "2026-10-26",
+   "host": "臺北市立中正高級中學",
+   "location": "臺北市立中正高級中學圖書館2樓",
+   "mode": "onsite",
+   "course_code": "",
+   "signup_url": "https://forms.gle/hM9tZwfjWK6Mp5iS6",
+   "hours": "3",
+   "summary": "建立教師對生成式語言模型在教育定位之正確認知，運用AI工具優化教學資源與備課效能，發展創新教學模組。",
+   "tags": [
+    "AI"
+   ],
+   "pdf": "https://drive.google.com/file/d/1YIGiQMSCpBsIQ6WNOzSaZe5GEMURY2A9/view",
+   "attachments": [],
+   "added": "2026-10-19"
+  },
+  {
+   "id": 46,
+   "title": "AI 賦能教與學工作坊: Gemini NoteBook & Canvas & GAS部屬實戰,打造前後台連動的教學系統",
+   "audience": "teacher",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "start_time": "09:00",
+   "end_time": "16:00",
+   "deadline": "2026-10-26",
+   "host": "臺北市立中正高級中學",
+   "location": "臺北市立中正高級中學 圖書館2樓",
+   "mode": "onsite",
+   "course_code": "",
+   "signup_url": "https://lin.ee/PnZ1vtE",
+   "hours": "3",
+   "summary": "運用AI工具優化教學資源、重塑課程設計、提升自主學習與協作能力。",
+   "tags": [
+    "AI",
+    "資訊",
+    "科技"
+   ],
+   "pdf": "https://drive.google.com/file/d/1VHxyaKQSfmx1nMV4ZBjTOISba-cziUdf/view",
+   "attachments": [],
+   "added": "2026-10-19"
+  },
   {
    "id": 40,
    "title": "生成式 AI時代的資安威脅與深偽防禦實務",
@@ -26,6 +123,31 @@
    "pdf": "https://drive.google.com/file/d/1nVSbpyDuoIdpakcCh3uSi0g4cMiR6C6s/view",
    "attachments": [],
    "added": "2026-10-15"
+  },
+  {
+   "id": 44,
+   "title": "用VibeCoding打造教學行政小幫手",
+   "audience": "teacher",
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "start_time": "13:30",
+   "end_time": "16:30",
+   "deadline": "",
+   "host": "國立羅東高級中學",
+   "location": "meet.google.com/vjt-widn-tsa",
+   "mode": "online",
+   "course_code": "5757790",
+   "signup_url": "",
+   "hours": "3",
+   "summary": "提升教師AI教學與行政應用能力，適合對數位工具融入教學及行政有興趣者。",
+   "tags": [
+    "AI",
+    "資訊",
+    "行政"
+   ],
+   "pdf": "https://drive.google.com/file/d/1BywFDbOsixwBjdRsys19EkB13iHEFQZk/view",
+   "attachments": [],
+   "added": "2026-10-19"
   }
  ]
 }
