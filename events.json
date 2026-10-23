@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T16:04:53.370Z",
- "count": 13,
+ "generated_at": "2026-10-23T04:03:07.550Z",
+ "count": 15,
  "events": [
   {
    "id": 42,
@@ -176,6 +176,53 @@
    "pdf": "https://drive.google.com/file/d/1H_7O5tavZZ5ZRXhh5WdcZSjOCP08FgcY/view",
    "attachments": [],
    "added": "2026-10-22"
+  },
+  {
+   "id": 54,
+   "title": "2026-AI問題解決工作坊",
+   "audience": "teacher",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "start_time": "",
+   "end_time": "",
+   "deadline": "",
+   "host": "華梵大學推廣教育處與全域科技有限公司",
+   "location": "華梵大學新北板橋中心電腦教室(新北市板橋區文化路二段242號6樓)",
+   "mode": "onsite",
+   "course_code": "",
+   "signup_url": "https://reurl.cc/Xxyg0e",
+   "hours": "3",
+   "summary": "協助提升AI問題解決與職場應用實務能力，誠摯邀請教師及校務行政人員參加。",
+   "tags": [
+    "AI"
+   ],
+   "pdf": "https://drive.google.com/file/d/1N4hs4Oz2BfWB7152x-c_WUOXIG2Eb6YQ/view",
+   "attachments": [],
+   "added": "2026-10-23"
+  },
+  {
+   "id": 55,
+   "title": "Gemini 與 Line @ 的火花- Gemini班級經營術",
+   "audience": "teacher",
+   "start": "2026-12-22",
+   "end": "2026-12-22",
+   "start_time": "13:30",
+   "end_time": "15:30",
+   "deadline": "2026-12-18",
+   "host": "臺中市立臺中第二高級中等學校",
+   "location": "Google meet 線上會議室",
+   "mode": "online",
+   "course_code": "5791699",
+   "signup_url": "",
+   "hours": "2",
+   "summary": "學習使用Gemini與Line@進行班級經營，適合前導暨高優計畫夥伴學校教師。",
+   "tags": [
+    "AI",
+    "資訊"
+   ],
+   "pdf": "https://drive.google.com/file/d/1O4prF2cB1OPb0HIR6TJX1FZI1bsij550/view",
+   "attachments": [],
+   "added": "2026-10-23"
   },
   {
    "id": 46,
