@@ -1,7 +1,31 @@
 {
- "generated_at": "2026-10-28T04:03:47.264Z",
- "count": 20,
+ "generated_at": "2026-10-29T16:04:16.660Z",
+ "count": 25,
  "events": [
+  {
+   "id": 70,
+   "title": "數位學習: Edcafe 融入課堂教學 教師增能工作坊",
+   "audience": "teacher",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "start_time": "13:30",
+   "end_time": "17:10",
+   "deadline": "2025-12-01",
+   "host": "國立竹山高級中學",
+   "location": "力行樓三樓301 電腦教室, Google Meet",
+   "mode": "hybrid",
+   "course_code": "",
+   "signup_url": "https://forms.gle/2VxAEw4Va9Dnh14dA",
+   "hours": "3",
+   "summary": "協助高中教師運用Edcafe AI平台設計互動式學習活動，提升學生參與度與學習成效。",
+   "tags": [
+    "AI",
+    "資訊"
+   ],
+   "pdf": "https://drive.google.com/file/d/1ybP7gDh2OgPzrPs9EUSdpZF8kSqP18OP/view",
+   "attachments": [],
+   "added": "2026-10-29"
+  },
   {
    "id": 42,
    "title": "AI 賦能教學與行政—Codex 實戰應用工作坊",
@@ -230,6 +254,31 @@
    "added": "2026-10-15"
   },
   {
+   "id": 67,
+   "title": "Y1-AI輔助教學活動設計及教學平臺應用",
+   "audience": "teacher",
+   "start": "2026-11-04",
+   "end": "2026-11-04",
+   "start_time": "13:00",
+   "end_time": "16:10",
+   "deadline": "2026-11-02",
+   "host": "國立斗六高級中學",
+   "location": "本校學館1樓視聽一教室",
+   "mode": "onsite",
+   "course_code": "5795491",
+   "signup_url": "",
+   "hours": "3",
+   "summary": "AI輔助教學活動設計及教學平臺應用研習，適合教師參加。",
+   "tags": [
+    "AI",
+    "資訊",
+    "科技"
+   ],
+   "pdf": "https://drive.google.com/file/d/1HizfmUSr42DskXrbWdtevGFVphEhsJoR/view",
+   "attachments": [],
+   "added": "2026-10-29"
+  },
+  {
    "id": 50,
    "title": "AI工作坊研習-「教師的AI Agent實戰課」講座",
    "audience": "teacher",
@@ -352,6 +401,36 @@
    "added": "2026-10-22"
   },
   {
+   "id": 68,
+   "title": "AI賦能教與學工作坊:Gemini NoteBook & Canvas",
+   "audience": "teacher",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "start_time": "09:00",
+   "end_time": "12:00",
+   "deadline": "2026-11-12",
+   "host": "桃園市立陽明高級中等學校",
+   "location": "桃園市立陽明高中創造樓1樓創課教室",
+   "mode": "onsite",
+   "course_code": "",
+   "signup_url": "https://lin.ee/PnZlvtE",
+   "hours": "3",
+   "summary": "運用AI工具優化備課、重塑課程設計，探討AI倫理，促進數位轉型。",
+   "tags": [
+    "AI",
+    "資訊",
+    "科技"
+   ],
+   "pdf": "https://drive.google.com/file/d/1q8BFJnWGLb1Y_4bR3JNFxuSKyezU3e0q/view",
+   "attachments": [
+    {
+     "name": "1151123桃園陽明高中-AI賦能教與學工作坊-研習內容.pdf",
+     "url": "https://drive.google.com/file/d/1G_eHcJoxMVgn4DSYOirkIbzPuAKGvlnN/view"
+    }
+   ],
+   "added": "2026-10-29"
+  },
+  {
    "id": 61,
    "title": "陽明數位領航AI賦能第五場工作坊:Workspace Studio 讓你自動化順起來!",
    "audience": "teacher",
@@ -447,6 +526,36 @@
    "added": "2026-10-23"
   },
   {
+   "id": 69,
+   "title": "用AI幫老師數位減壓:Gemini+Notebook+GAS教學場域應用與實作",
+   "audience": "teacher",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "start_time": "13:30",
+   "end_time": "17:10",
+   "deadline": "2026-11-25",
+   "host": "國立竹山高級中學",
+   "location": "本校力行樓四樓401電腦教室;GoogleMeet線上會議室",
+   "mode": "hybrid",
+   "course_code": "",
+   "signup_url": "https://forms.gle/mL2sgXQnSuSkE1Ug8",
+   "hours": "3",
+   "summary": "學習使用AI工具Gemini、Notebook、GAS，減輕教師數位教學壓力，適合想提升數位教學能力的教師。",
+   "tags": [
+    "AI",
+    "資訊",
+    "科技"
+   ],
+   "pdf": "https://drive.google.com/file/d/1rjI8qOyTgVdC6Iyc2bZ5OHZ9JNxRUl2L/view",
+   "attachments": [
+    {
+     "name": "1151127竹山高中-數位AI融入教學系列工作坊-研習內容.pdf",
+     "url": "https://drive.google.com/file/d/1xj-m8Gkj7Tv8KMKrWzufedR0uVIOJ0rt/view"
+    }
+   ],
+   "added": "2026-10-29"
+  },
+  {
    "id": 65,
    "title": "115學年度第1學期教育部高中優質化輔助方案及前導學校AI賦能教與學工作坊",
    "audience": "teacher",
@@ -469,6 +578,35 @@
    "pdf": "https://drive.google.com/file/d/1HhRm3DdDaYtUXEufiSxy7dtocfTfHCOs/view",
    "attachments": [],
    "added": "2026-10-28"
+  },
+  {
+   "id": 71,
+   "title": "AI 賦能教與學工作坊",
+   "audience": "teacher",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "start_time": "09:00",
+   "end_time": "16:00",
+   "deadline": "2026-11-26",
+   "host": "臺中市立臺中第一高級中等學校",
+   "location": "臺中一中明心館1F生涯專科教室",
+   "mode": "onsite",
+   "course_code": "",
+   "signup_url": "https://forms.gle/hM9tZwfjWK6Mp5i6",
+   "hours": "3",
+   "summary": "建立教師對生成式語言模型在教育定位之正確認知，運用AI工具優化教學資源與備課效能。",
+   "tags": [
+    "AI",
+    "資訊"
+   ],
+   "pdf": "https://drive.google.com/file/d/1QX23Cabx6dbGHmWKI8bfuwzcOjVvK3OH/view",
+   "attachments": [
+    {
+     "name": "1151210臺中一中-AI賦能教與學工作坊-研習內容.pdf",
+     "url": "https://drive.google.com/file/d/1f2oY63uYOkgcEI1WAKKq5s40hbLdO2ak/view"
+    }
+   ],
+   "added": "2026-10-29"
   },
   {
    "id": 55,
