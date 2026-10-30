@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T16:04:16.660Z",
- "count": 25,
+ "generated_at": "2026-10-30T16:02:55.683Z",
+ "count": 24,
  "events": [
   {
    "id": 70,
@@ -48,30 +48,6 @@
     "行政"
    ],
    "pdf": "https://drive.google.com/file/d/14rvyWFdKNHJ1KXIGpH3VwsYHy92L16JT/view",
-   "attachments": [],
-   "added": "2026-10-19"
-  },
-  {
-   "id": 43,
-   "title": "運用AI Agent (ChatGPT)建立個人化自動化工作流研習",
-   "audience": "teacher",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "start_time": "13:10",
-   "end_time": "16:00",
-   "deadline": "2026-10-23",
-   "host": "臺北市立中崙高級中學",
-   "location": "臺北市立中崙高級中學4樓圖書館小會議室",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "https://forms.gle",
-   "hours": "",
-   "summary": "運用AI Agent (ChatGPT)建立個人化自動化工作流研習，適合對AI工具感興趣的高中教師。",
-   "tags": [
-    "AI",
-    "資訊"
-   ],
-   "pdf": "https://drive.google.com/file/d/1FxC8UhEcxUhow3kahUj0yznh2ehu1It_/view",
    "attachments": [],
    "added": "2026-10-19"
   },
