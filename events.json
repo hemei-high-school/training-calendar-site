@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T16:02:55.683Z",
- "count": 24,
+ "generated_at": "2026-10-31T16:02:54.431Z",
+ "count": 20,
  "events": [
   {
    "id": 70,
@@ -101,106 +101,6 @@
     "科技"
    ],
    "pdf": "https://drive.google.com/file/d/1BmTFcYLhntGLKu27AjPFPnLFZaLTX7K3/view",
-   "attachments": [],
-   "added": "2026-10-28"
-  },
-  {
-   "id": 62,
-   "title": "2026年上銀機械手臂模擬工作坊實務培訓",
-   "audience": "teacher",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "start_time": "09:00",
-   "end_time": "16:00",
-   "deadline": "2026-10-28",
-   "host": "育達科技大學",
-   "location": "育達科技大學",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "",
-   "hours": "6",
-   "summary": "透過實務操作與技術培訓，提升師生對機械手臂及智慧製造技術的認識與應用能力。",
-   "tags": [
-    "AI",
-    "機器人",
-    "科技"
-   ],
-   "pdf": "https://drive.google.com/file/d/1iurP2SiYFbJ7MG3jcj5XjD4ZbX-vOhoe/view",
-   "attachments": [],
-   "added": "2026-10-28"
-  },
-  {
-   "id": 56,
-   "title": "AIoT-硬體組裝與鏡頭生成式偵測研習",
-   "audience": "teacher",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "start_time": "09:00",
-   "end_time": "12:00",
-   "deadline": "2026-10-29",
-   "host": "桃園市立中壢商業高級中等學校",
-   "location": "桃園市立中壢高商圖書館五樓",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "https://reurl.cc/1nb62q",
-   "hours": "",
-   "summary": "AIoT硬體組裝與鏡頭生成式偵測研習，提升師生實務操作能力，適合教師及學生。",
-   "tags": [
-    "AI",
-    "資訊",
-    "機器人"
-   ],
-   "pdf": "https://drive.google.com/file/d/1NpAf_QrTw09tVSh3dAQs0PgOvuE4Gdsv/view",
-   "attachments": [],
-   "added": "2026-10-27"
-  },
-  {
-   "id": 57,
-   "title": "AWS Community Day Taiwan 2026 雲端社群年會活動",
-   "audience": "teacher",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "start_time": "09:30",
-   "end_time": "17:30",
-   "deadline": "",
-   "host": "AWS User Group Taiwan",
-   "location": "實踐大學臺北校區N棟圖資大樓地下二樓會場",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "https://awscmd.tw",
-   "hours": "",
-   "summary": "AWS雲端社群年會，分享AI、資安等實務經驗，適合師生參加。",
-   "tags": [
-    "AI",
-    "資訊",
-    "資安"
-   ],
-   "pdf": "https://drive.google.com/file/d/1jTRfyLQtvMfz2JO9jvfOSWZ1rUbF9wOJ/view",
-   "attachments": [],
-   "added": "2026-10-27"
-  },
-  {
-   "id": 66,
-   "title": "上銀機械手臂模擬工作坊-HRSim上銀機器人模擬軟體實作",
-   "audience": "teacher",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "start_time": "09:00",
-   "end_time": "16:00",
-   "deadline": "",
-   "host": "廣亞學校財團法人育達科技大學",
-   "location": "育達科技大學 商管大樓四樓 管403教室",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "https://forms.gle/JKlwinnVHbRT9yib8",
-   "hours": "",
-   "summary": "透過HRSim機器人模擬軟體實作，提升師生對機器人模擬技術及機械手臂應用之認識與操作能力。",
-   "tags": [
-    "AI",
-    "機器人",
-    "科技"
-   ],
-   "pdf": "https://drive.google.com/file/d/1N4TpnimW4imOzZur-uF6AcioLrEcemKo/view",
    "attachments": [],
    "added": "2026-10-28"
   },
