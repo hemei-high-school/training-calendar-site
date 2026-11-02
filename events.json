@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T16:02:54.431Z",
- "count": 20,
+ "generated_at": "2026-11-02T04:03:06.142Z",
+ "count": 23,
  "events": [
   {
    "id": 70,
@@ -226,6 +226,31 @@
    "pdf": "https://drive.google.com/file/d/18zLILRCEfVdpTkKMAwU2DXblaN2w__EU/view",
    "attachments": [],
    "added": "2026-10-27"
+  },
+  {
+   "id": 73,
+   "title": "115學年度十二年國民基本教育課程綱要普通型數位前導計畫跨校交流教師增能研習",
+   "audience": "teacher",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "start_time": "13:10",
+   "end_time": "15:00",
+   "deadline": "2026-11-06",
+   "host": "臺北市立中崙高級中學",
+   "location": "Google Meet",
+   "mode": "online",
+   "course_code": "5755621",
+   "signup_url": "",
+   "hours": "",
+   "summary": "協助教師運用Google AI自動化工作流與Google Workspace Studio,提升行政效率與新興科技應用能力。",
+   "tags": [
+    "AI",
+    "資訊",
+    "行政"
+   ],
+   "pdf": "https://drive.google.com/file/d/1JaaKrWSZqQm46awe8zdSsQIWfvC3FWJw/view",
+   "attachments": [],
+   "added": "2026-11-02"
   },
   {
    "id": 59,
@@ -507,6 +532,48 @@
    "pdf": "https://drive.google.com/file/d/1O4prF2cB1OPb0HIR6TJX1FZI1bsij550/view",
    "attachments": [],
    "added": "2026-10-23"
+  },
+  {
+   "id": 72,
+   "title": "115A402926_30091010328_print",
+   "audience": "teacher",
+   "start": "",
+   "end": "",
+   "start_time": "",
+   "end_time": "",
+   "deadline": "",
+   "host": "",
+   "location": "",
+   "mode": "",
+   "course_code": "",
+   "signup_url": "",
+   "hours": "",
+   "summary": "",
+   "tags": [],
+   "pdf": "https://drive.google.com/file/d/1GXnqTth1Cq1YZDHJor8Ii5bHGBDvVaEe/view",
+   "attachments": [],
+   "added": "2026-11-02"
+  },
+  {
+   "id": 74,
+   "title": "11530111751_1_print",
+   "audience": "teacher",
+   "start": "",
+   "end": "",
+   "start_time": "",
+   "end_time": "",
+   "deadline": "",
+   "host": "",
+   "location": "",
+   "mode": "",
+   "course_code": "",
+   "signup_url": "",
+   "hours": "",
+   "summary": "",
+   "tags": [],
+   "pdf": "https://drive.google.com/file/d/1_Suq-y5h-KZHfLhn9U79yIk-uQeF7E7O/view",
+   "attachments": [],
+   "added": "2026-11-02"
   }
  ]
 }
