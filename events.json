@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T16:02:48.385Z",
- "count": 22,
+ "generated_at": "2026-11-04T16:02:47.210Z",
+ "count": 20,
  "events": [
   {
    "id": 70,
@@ -25,31 +25,6 @@
    "pdf": "https://drive.google.com/file/d/1ybP7gDh2OgPzrPs9EUSdpZF8kSqP18OP/view",
    "attachments": [],
    "added": "2026-10-29"
-  },
-  {
-   "id": 42,
-   "title": "AI 賦能教學與行政—Codex 實戰應用工作坊",
-   "audience": "teacher",
-   "start": "2026-10-21",
-   "end": "2026-11-04",
-   "start_time": "13:00",
-   "end_time": "15:00",
-   "deadline": "",
-   "host": "新北市私立徐匯高級中學",
-   "location": "Google Meet",
-   "mode": "online",
-   "course_code": "",
-   "signup_url": "https://forms.gle/je6M2mWE2rYkvD7t9",
-   "hours": "2",
-   "summary": "實作AI工具Codex，製作課堂教具、處理行政工作，建立教學網站，促進跨校交流。",
-   "tags": [
-    "AI",
-    "程式",
-    "行政"
-   ],
-   "pdf": "https://drive.google.com/file/d/14rvyWFdKNHJ1KXIGpH3VwsYHy92L16JT/view",
-   "attachments": [],
-   "added": "2026-10-19"
   },
   {
    "id": 45,
@@ -103,31 +78,6 @@
    "pdf": "https://drive.google.com/file/d/1BmTFcYLhntGLKu27AjPFPnLFZaLTX7K3/view",
    "attachments": [],
    "added": "2026-10-28"
-  },
-  {
-   "id": 67,
-   "title": "Y1-AI輔助教學活動設計及教學平臺應用",
-   "audience": "teacher",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "start_time": "13:00",
-   "end_time": "16:10",
-   "deadline": "2026-11-02",
-   "host": "國立斗六高級中學",
-   "location": "本校學館1樓視聽一教室",
-   "mode": "onsite",
-   "course_code": "5795491",
-   "signup_url": "",
-   "hours": "3",
-   "summary": "AI輔助教學活動設計及教學平臺應用研習，適合教師參加。",
-   "tags": [
-    "AI",
-    "資訊",
-    "科技"
-   ],
-   "pdf": "https://drive.google.com/file/d/1HizfmUSr42DskXrbWdtevGFVphEhsJoR/view",
-   "attachments": [],
-   "added": "2026-10-29"
   },
   {
    "id": 50,
