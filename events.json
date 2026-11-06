@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T16:02:47.210Z",
- "count": 20,
+ "generated_at": "2026-11-06T16:03:01.570Z",
+ "count": 19,
  "events": [
   {
    "id": 70,
@@ -101,31 +101,6 @@
    "pdf": "https://drive.google.com/file/d/11-SgjTs-vyO8CUGSe6_tn6wQKHl-P_7w/view",
    "attachments": [],
    "added": "2026-10-22"
-  },
-  {
-   "id": 44,
-   "title": "用VibeCoding打造教學行政小幫手",
-   "audience": "teacher",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "start_time": "13:30",
-   "end_time": "16:30",
-   "deadline": "",
-   "host": "國立羅東高級中學",
-   "location": "meet.google.com/vjt-widn-tsa",
-   "mode": "online",
-   "course_code": "5757790",
-   "signup_url": "",
-   "hours": "3",
-   "summary": "提升教師AI教學與行政應用能力，適合對數位工具融入教學及行政有興趣者。",
-   "tags": [
-    "AI",
-    "資訊",
-    "行政"
-   ],
-   "pdf": "https://drive.google.com/file/d/1BywFDbOsixwBjdRsys19EkB13iHEFQZk/view",
-   "attachments": [],
-   "added": "2026-10-19"
   },
   {
    "id": 58,
