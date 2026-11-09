@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T04:04:15.683Z",
- "count": 26,
+ "generated_at": "2026-11-09T16:02:55.417Z",
+ "count": 24,
  "events": [
   {
    "id": 70,
@@ -80,29 +80,6 @@
    "added": "2026-10-28"
   },
   {
-   "id": 50,
-   "title": "AI工作坊研習-「教師的AI Agent實戰課」講座",
-   "audience": "teacher",
-   "start": "2026-11-09",
-   "end": "2026-11-09",
-   "start_time": "13:00",
-   "end_time": "16:00",
-   "deadline": "2026-11-05",
-   "host": "臺中市立惠文高級中學",
-   "location": "臺中市立惠文高中行政大樓2樓會議室",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "https://forms.gle/B8j2Mt2Hgy78HUvK6",
-   "hours": "",
-   "summary": "本研習介紹AI Agent實戰應用，適合對AI工具感興趣的教師參加。",
-   "tags": [
-    "AI"
-   ],
-   "pdf": "https://drive.google.com/file/d/11-SgjTs-vyO8CUGSe6_tn6wQKHl-P_7w/view",
-   "attachments": [],
-   "added": "2026-10-22"
-  },
-  {
    "id": 58,
    "title": "2026嶺東 SmartTech AI 創新應用挑戰賽",
    "audience": "student",
@@ -151,30 +128,6 @@
    "pdf": "https://drive.google.com/file/d/1JaaKrWSZqQm46awe8zdSsQIWfvC3FWJw/view",
    "attachments": [],
    "added": "2026-11-02"
-  },
-  {
-   "id": 59,
-   "title": "Wayground進階教學應用",
-   "audience": "teacher",
-   "start": "2026-11-09",
-   "end": "2026-11-09",
-   "start_time": "13:00",
-   "end_time": "16:00",
-   "deadline": "2026-11-08",
-   "host": "臺北市立育成高級中學",
-   "location": "417電腦教室",
-   "mode": "onsite",
-   "course_code": "5792685",
-   "signup_url": "",
-   "hours": "3",
-   "summary": "體驗AI智慧出題與遊戲化教學的魅力，從遊戲場實作到數據分析，掌握Wayground進階實戰力，活化教學現場。",
-   "tags": [
-    "AI",
-    "資訊"
-   ],
-   "pdf": "https://drive.google.com/file/d/1-iT-fgpq43FJHkN-E8dlnJLsGRpg_-aV/view",
-   "attachments": [],
-   "added": "2026-10-27"
   },
   {
    "id": 51,
