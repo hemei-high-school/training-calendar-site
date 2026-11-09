@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T16:03:01.570Z",
- "count": 19,
+ "generated_at": "2026-11-09T04:04:15.683Z",
+ "count": 26,
  "events": [
   {
    "id": 70,
@@ -280,6 +280,30 @@
    "added": "2026-10-28"
   },
   {
+   "id": 75,
+   "title": "AI簡報新探索:Gemini × NotebookLM × Google Slides工作坊",
+   "audience": "teacher",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "start_time": "13:00",
+   "end_time": "15:00",
+   "deadline": "2026-11-15",
+   "host": "國立花蓮高級中學",
+   "location": "Google Meet 線上會議室",
+   "mode": "online",
+   "course_code": "",
+   "signup_url": "https://forms.gle/ZSfpFSfLibK2nRqx6",
+   "hours": "",
+   "summary": "學習使用AI工具Gemini、NotebookLM、Google Slides製作簡報，適合國高中職教師。",
+   "tags": [
+    "AI",
+    "資訊"
+   ],
+   "pdf": "https://drive.google.com/file/d/1q5kl4xLqvrcKTi_prVWtNdpMugcBKAAl/view",
+   "attachments": [],
+   "added": "2026-11-09"
+  },
+  {
    "id": 60,
    "title": "『a-1』-數位前導- Google 試算表與 Apps script 的奇幻組合」工作坊",
    "audience": "teacher",
@@ -304,6 +328,30 @@
    "added": "2026-10-27"
   },
   {
+   "id": 77,
+   "title": "Y2-AI輔助專題製作活動設計與評量",
+   "audience": "teacher",
+   "start": "2026-11-25",
+   "end": "2026-11-25",
+   "start_time": "13:50",
+   "end_time": "17:00",
+   "deadline": "2026-11-20",
+   "host": "國立斗六高級中學",
+   "location": "本校科學館1樓視聽一教室",
+   "mode": "onsite",
+   "course_code": "5807026",
+   "signup_url": "",
+   "hours": "3",
+   "summary": "研習AI輔助專題製作活動設計與評量，適合高中部教師。",
+   "tags": [
+    "AI",
+    "科技"
+   ],
+   "pdf": "https://drive.google.com/file/d/1Z09i9Jtuz-O4-2-m5a_3s-jSTF34vpob/view",
+   "attachments": [],
+   "added": "2026-11-09"
+  },
+  {
    "id": 54,
    "title": "2026-AI問題解決工作坊",
    "audience": "teacher",
@@ -325,6 +373,30 @@
    "pdf": "https://drive.google.com/file/d/1N4hs4Oz2BfWB7152x-c_WUOXIG2Eb6YQ/view",
    "attachments": [],
    "added": "2026-10-23"
+  },
+  {
+   "id": 76,
+   "title": "人工智慧倫理Ⅰ:倫理批判思考工具到公平",
+   "audience": "teacher",
+   "start": "",
+   "end": "",
+   "start_time": "",
+   "end_time": "",
+   "deadline": "2026-11-23",
+   "host": "臺灣大專校院人工智慧學程聯盟(TAICA)",
+   "location": "YouTube平臺",
+   "mode": "online",
+   "course_code": "",
+   "signup_url": "",
+   "hours": "",
+   "summary": "高中生線上AI倫理課程，培養數位素養與批判思考能力。",
+   "tags": [
+    "AI",
+    "資訊"
+   ],
+   "pdf": "https://drive.google.com/file/d/1ABt69dn8T-uMsgzqm8ZIDUXeviRxQdBc/view",
+   "attachments": [],
+   "added": "2026-11-09"
   },
   {
    "id": 69,
@@ -410,6 +482,88 @@
    "added": "2026-10-29"
   },
   {
+   "id": 78,
+   "title": "AI賦能教與學工作坊",
+   "audience": "teacher",
+   "start": "2026-12-07",
+   "end": "2026-12-07",
+   "start_time": "09:00",
+   "end_time": "16:00",
+   "deadline": "2026-11-26",
+   "host": "國立花蓮高級中學",
+   "location": "國立花蓮高級中學-綜合大樓2樓-行政會報室(970花蓮市民權路42號)",
+   "mode": "onsite",
+   "course_code": "",
+   "signup_url": "https://forms.gle/hM9tZwfjWK6Mp5iS6",
+   "hours": "6",
+   "summary": "AI賦能教與學工作坊，適合高中校長、主任、組長或教師參加。",
+   "tags": [
+    "AI"
+   ],
+   "pdf": "https://drive.google.com/file/d/1zGGa_xDxzH2VLqt8r6_0JvFcTV9gDl7Z/view",
+   "attachments": [
+    {
+     "name": "1151207花蓮高中-AI賦能教與學工作坊-研習內容.pdf",
+     "url": "https://drive.google.com/file/d/182s8gzvrwBweRltPTLstK14wOawygw2J/view"
+    }
+   ],
+   "added": "2026-11-09"
+  },
+  {
+   "id": 79,
+   "title": "AI協作的風險與管控教師增能研習",
+   "audience": "teacher",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "start_time": "14:00",
+   "end_time": "16:00",
+   "deadline": "2026-12-07",
+   "host": "國立臺南第二高級中學",
+   "location": "Google Meet",
+   "mode": "online",
+   "course_code": "5796069",
+   "signup_url": "https://www.inservice.edu.tw/",
+   "hours": "2",
+   "summary": "線上研習「AI協作的風險與管控」，適合高中部教師增能。",
+   "tags": [
+    "AI",
+    "科技"
+   ],
+   "pdf": "https://drive.google.com/file/d/1JacPCmK3ZRkDIIdkCTphDXhIK0892QNp/view",
+   "attachments": [
+    {
+     "name": "1151209臺南二中-AI協作的風險與管控-教師增能研習-研習內容.pdf",
+     "url": "https://drive.google.com/file/d/1uxZJIoMgXfqewMg3qZ86KfbTSYZRZ88E/view"
+    }
+   ],
+   "added": "2026-11-09"
+  },
+  {
+   "id": 80,
+   "title": "2026資訊科技創新設計暨應用競賽",
+   "audience": "student",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "start_time": "",
+   "end_time": "",
+   "deadline": "2026-12-07",
+   "host": "樹德科技大學資訊學院, 台灣網路智能學會",
+   "location": "樹德科技大學資訊學院",
+   "mode": "onsite",
+   "course_code": "",
+   "signup_url": "https://forms.gle/a98jV7nE5zQ3cmP1A",
+   "hours": "",
+   "summary": "鼓勵高中職學生針對資訊應用、金融科技、大數據及人工智慧等主題提出創新構想的競賽。",
+   "tags": [
+    "AI",
+    "資訊",
+    "競賽"
+   ],
+   "pdf": "https://drive.google.com/file/d/1rEU2rZrpy_9QZ6cPCDqKwRgB7s9FZPyx/view",
+   "attachments": [],
+   "added": "2026-11-09"
+  },
+  {
    "id": 55,
    "title": "Gemini 與 Line @ 的火花- Gemini班級經營術",
    "audience": "teacher",
@@ -432,6 +586,31 @@
    "pdf": "https://drive.google.com/file/d/1O4prF2cB1OPb0HIR6TJX1FZI1bsij550/view",
    "attachments": [],
    "added": "2026-10-23"
+  },
+  {
+   "id": 81,
+   "title": "2027 Fun AI Camp",
+   "audience": "student",
+   "start": "2027-01-25",
+   "end": "2027-01-28",
+   "start_time": "",
+   "end_time": "",
+   "deadline": "2026-12-18",
+   "host": "國立清華大學資訊工程學系",
+   "location": "長庚大學",
+   "mode": "hybrid",
+   "course_code": "",
+   "signup_url": "https://mislab.cs.nthu.edu.tw/funai/",
+   "hours": "",
+   "summary": "人工智慧營隊，透過線上學習、實體實作與競賽，提升高中與大專學生AI素養與應用能力。",
+   "tags": [
+    "AI",
+    "營隊",
+    "競賽"
+   ],
+   "pdf": "https://drive.google.com/file/d/1xRFZUvzLGJ3SiDYZfsCFqsUSU5FYxpuQ/view",
+   "attachments": [],
+   "added": "2026-11-09"
   },
   {
    "id": 72,
