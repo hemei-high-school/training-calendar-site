@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T16:02:55.417Z",
- "count": 24,
+ "generated_at": "2026-11-10T16:02:46.787Z",
+ "count": 22,
  "events": [
   {
    "id": 70,
@@ -25,59 +25,6 @@
    "pdf": "https://drive.google.com/file/d/1ybP7gDh2OgPzrPs9EUSdpZF8kSqP18OP/view",
    "attachments": [],
    "added": "2026-10-29"
-  },
-  {
-   "id": 45,
-   "title": "2026學年度第1學期教育部高中優質化輔助方案及前導學校AI賦能教與學工作坊",
-   "audience": "teacher",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "start_time": "09:00",
-   "end_time": "16:00",
-   "deadline": "2026-10-26",
-   "host": "臺北市立中正高級中學",
-   "location": "臺北市立中正高級中學圖書館2樓",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "https://forms.gle/hM9tZwfjWK6Mp5iS6",
-   "hours": "3",
-   "summary": "建立教師對生成式語言模型在教育定位之正確認知，運用AI工具優化教學資源與備課效能，發展創新教學模組。",
-   "tags": [
-    "AI"
-   ],
-   "pdf": "https://drive.google.com/file/d/1YIGiQMSCpBsIQ6WNOzSaZe5GEMURY2A9/view",
-   "attachments": [
-    {
-     "name": "1151110中正高中-AI賦能教與學工作坊-研習內容.pdf",
-     "url": "https://drive.google.com/file/d/1VHxyaKQSfmx1nMV4ZBjTOISba-cziUdf/view"
-    }
-   ],
-   "added": "2026-10-19"
-  },
-  {
-   "id": 64,
-   "title": "Gemini NoteBook & Canvas GAS 部署實戰, 打造前後台連動的教學系統",
-   "audience": "teacher",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "start_time": "09:00",
-   "end_time": "16:00",
-   "deadline": "2026-10-26",
-   "host": "臺北市立中正高級中學",
-   "location": "圖書館2樓",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "https://lin.ee/PnZlvtE",
-   "hours": "3",
-   "summary": "運用AI工具進行教學素材萃取、多模態分析與課程設計，提升備課效能與學生自主學習。",
-   "tags": [
-    "AI",
-    "資訊",
-    "科技"
-   ],
-   "pdf": "https://drive.google.com/file/d/1BmTFcYLhntGLKu27AjPFPnLFZaLTX7K3/view",
-   "attachments": [],
-   "added": "2026-10-28"
   },
   {
    "id": 58,
