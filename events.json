@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T04:03:16.662Z",
- "count": 24,
+ "generated_at": "2026-11-11T16:02:48.842Z",
+ "count": 23,
  "events": [
   {
    "id": 70,
@@ -50,31 +50,6 @@
    "pdf": "https://drive.google.com/file/d/18zLILRCEfVdpTkKMAwU2DXblaN2w__EU/view",
    "attachments": [],
    "added": "2026-10-27"
-  },
-  {
-   "id": 73,
-   "title": "115學年度十二年國民基本教育課程綱要普通型數位前導計畫跨校交流教師增能研習",
-   "audience": "teacher",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "start_time": "13:10",
-   "end_time": "15:00",
-   "deadline": "2026-11-06",
-   "host": "臺北市立中崙高級中學",
-   "location": "Google Meet",
-   "mode": "online",
-   "course_code": "5755621",
-   "signup_url": "",
-   "hours": "",
-   "summary": "協助教師運用Google AI自動化工作流與Google Workspace Studio,提升行政效率與新興科技應用能力。",
-   "tags": [
-    "AI",
-    "資訊",
-    "行政"
-   ],
-   "pdf": "https://drive.google.com/file/d/1JaaKrWSZqQm46awe8zdSsQIWfvC3FWJw/view",
-   "attachments": [],
-   "added": "2026-11-02"
   },
   {
    "id": 51,
