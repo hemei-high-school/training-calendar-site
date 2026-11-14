@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T16:02:48.842Z",
- "count": 23,
+ "generated_at": "2026-11-14T16:02:47.661Z",
+ "count": 22,
  "events": [
   {
    "id": 70,
@@ -50,31 +50,6 @@
    "pdf": "https://drive.google.com/file/d/18zLILRCEfVdpTkKMAwU2DXblaN2w__EU/view",
    "attachments": [],
    "added": "2026-10-27"
-  },
-  {
-   "id": 51,
-   "title": "2026全國智慧型自走車競賽",
-   "audience": "teacher",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "start_time": "",
-   "end_time": "",
-   "deadline": "2026-11-11",
-   "host": "臺北城市科技大學",
-   "location": "臺北城市科技大學",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "https://match.tpcu.edu.tw",
-   "hours": "",
-   "summary": "鼓勵學生參加智慧型自走車競賽，提升科技應用能力。",
-   "tags": [
-    "機器人",
-    "競賽",
-    "科技"
-   ],
-   "pdf": "https://drive.google.com/file/d/1H_7O5tavZZ5ZRXhh5WdcZSjOCP08FgcY/view",
-   "attachments": [],
-   "added": "2026-10-22"
   },
   {
    "id": 68,
