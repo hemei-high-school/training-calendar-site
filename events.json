@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T16:02:47.661Z",
- "count": 22,
+ "generated_at": "2026-11-15T16:02:48.676Z",
+ "count": 21,
  "events": [
   {
    "id": 70,
@@ -104,30 +104,6 @@
    "pdf": "https://drive.google.com/file/d/1HtCrW-a4AK1-y7c69jLN3XVx7giYACnW/view",
    "attachments": [],
    "added": "2026-10-27"
-  },
-  {
-   "id": 63,
-   "title": "2026 AI妙用大挑戰",
-   "audience": "student",
-   "start": "",
-   "end": "",
-   "start_time": "",
-   "end_time": "",
-   "deadline": "2026-11-15",
-   "host": "元智大學管理學院",
-   "location": "",
-   "mode": "online",
-   "course_code": "",
-   "signup_url": "https://www.cm.yzu.edu.tw/aichallenge/",
-   "hours": "",
-   "summary": "高中職學生運用AI工具解決問題，製作短影音呈現成果的競賽。",
-   "tags": [
-    "AI",
-    "競賽"
-   ],
-   "pdf": "https://drive.google.com/file/d/1NEEeYSs14ibxbg-xEhOCvjJILa1qzm8t/view",
-   "attachments": [],
-   "added": "2026-10-28"
   },
   {
    "id": 75,
