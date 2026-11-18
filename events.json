@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T04:04:07.668Z",
- "count": 27,
+ "generated_at": "2026-11-18T16:02:48.410Z",
+ "count": 26,
  "events": [
   {
    "id": 70,
@@ -104,30 +104,6 @@
    "pdf": "https://drive.google.com/file/d/1HtCrW-a4AK1-y7c69jLN3XVx7giYACnW/view",
    "attachments": [],
    "added": "2026-10-27"
-  },
-  {
-   "id": 75,
-   "title": "AI簡報新探索:Gemini × NotebookLM × Google Slides工作坊",
-   "audience": "teacher",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "start_time": "13:00",
-   "end_time": "15:00",
-   "deadline": "2026-11-15",
-   "host": "國立花蓮高級中學",
-   "location": "Google Meet 線上會議室",
-   "mode": "online",
-   "course_code": "",
-   "signup_url": "https://forms.gle/ZSfpFSfLibK2nRqx6",
-   "hours": "",
-   "summary": "學習使用AI工具Gemini、NotebookLM、Google Slides製作簡報，適合國高中職教師。",
-   "tags": [
-    "AI",
-    "資訊"
-   ],
-   "pdf": "https://drive.google.com/file/d/1q5kl4xLqvrcKTi_prVWtNdpMugcBKAAl/view",
-   "attachments": [],
-   "added": "2026-11-09"
   },
   {
    "id": 84,
