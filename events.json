@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T16:02:48.410Z",
- "count": 26,
+ "generated_at": "2026-11-20T16:02:48.868Z",
+ "count": 23,
  "events": [
   {
    "id": 70,
@@ -25,31 +25,6 @@
    "pdf": "https://drive.google.com/file/d/1ybP7gDh2OgPzrPs9EUSdpZF8kSqP18OP/view",
    "attachments": [],
    "added": "2026-10-29"
-  },
-  {
-   "id": 58,
-   "title": "2026嶺東 SmartTech AI 創新應用挑戰賽",
-   "audience": "student",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "start_time": "",
-   "end_time": "",
-   "deadline": "2026-11-06",
-   "host": "嶺東科技大學智慧科技學院",
-   "location": "",
-   "mode": "",
-   "course_code": "",
-   "signup_url": "https://script.google.com/macros/s/AKfycbxi4mIKgpg5oPJI6FIdQApVW-uwl6fJTkeXUvOUjsXLDpHA4dwkiyUl7ujFaUhL3htRIA/exec",
-   "hours": "",
-   "summary": "鼓勵學生運用AI技術與跨領域知識,發揮創意解決問題,培養科技思維與團隊合作精神。",
-   "tags": [
-    "AI",
-    "科技",
-    "競賽"
-   ],
-   "pdf": "https://drive.google.com/file/d/18zLILRCEfVdpTkKMAwU2DXblaN2w__EU/view",
-   "attachments": [],
-   "added": "2026-10-27"
   },
   {
    "id": 68,
@@ -82,30 +57,6 @@
    "added": "2026-10-29"
   },
   {
-   "id": 61,
-   "title": "陽明數位領航AI賦能第五場工作坊:Workspace Studio 讓你自動化順起來!",
-   "audience": "teacher",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "start_time": "12:00",
-   "end_time": "16:00",
-   "deadline": "2026-11-13",
-   "host": "桃園市立陽明高級中等學校",
-   "location": "桃園市立陽明高中創造樓1樓創課教室",
-   "mode": "onsite",
-   "course_code": "5756163",
-   "signup_url": "",
-   "hours": "4",
-   "summary": "運用Google AI工具提升教師數位素養與課程融入能力。",
-   "tags": [
-    "AI",
-    "資訊"
-   ],
-   "pdf": "https://drive.google.com/file/d/1HtCrW-a4AK1-y7c69jLN3XVx7giYACnW/view",
-   "attachments": [],
-   "added": "2026-10-27"
-  },
-  {
    "id": 84,
    "title": "AI任務設計師-讓AI成為協作好夥伴線上工作坊",
    "audience": "teacher",
@@ -133,30 +84,6 @@
     }
    ],
    "added": "2026-11-17"
-  },
-  {
-   "id": 60,
-   "title": "『a-1』-數位前導- Google 試算表與 Apps script 的奇幻組合」工作坊",
-   "audience": "teacher",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "start_time": "10:10",
-   "end_time": "12:10",
-   "deadline": "",
-   "host": "南山學校財團法人新北市南山高級中學",
-   "location": "",
-   "mode": "online",
-   "course_code": "",
-   "signup_url": "https://forms.gle/DNyY2n2goPCHzzB29",
-   "hours": "2",
-   "summary": "運用Google試算表與Apps script推動混成學習，分享數位工具融入課程規劃與教學效益，促進教師專業成長。",
-   "tags": [
-    "資訊",
-    "科技"
-   ],
-   "pdf": "https://drive.google.com/file/d/1FLjqyusnFU49115FGs_RY1TL0KYkqqim/view",
-   "attachments": [],
-   "added": "2026-10-27"
   },
   {
    "id": 77,
