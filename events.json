@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T16:02:48.868Z",
- "count": 23,
+ "generated_at": "2026-11-21T16:02:52.357Z",
+ "count": 22,
  "events": [
   {
    "id": 70,
@@ -108,29 +108,6 @@
    "pdf": "https://drive.google.com/file/d/1Z09i9Jtuz-O4-2-m5a_3s-jSTF34vpob/view",
    "attachments": [],
    "added": "2026-11-09"
-  },
-  {
-   "id": 54,
-   "title": "2026-AI問題解決工作坊",
-   "audience": "teacher",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "start_time": "",
-   "end_time": "",
-   "deadline": "",
-   "host": "華梵大學推廣教育處與全域科技有限公司",
-   "location": "華梵大學新北板橋中心電腦教室(新北市板橋區文化路二段242號6樓)",
-   "mode": "onsite",
-   "course_code": "",
-   "signup_url": "https://reurl.cc/Xxyg0e",
-   "hours": "3",
-   "summary": "協助提升AI問題解決與職場應用實務能力，誠摯邀請教師及校務行政人員參加。",
-   "tags": [
-    "AI"
-   ],
-   "pdf": "https://drive.google.com/file/d/1N4hs4Oz2BfWB7152x-c_WUOXIG2Eb6YQ/view",
-   "attachments": [],
-   "added": "2026-10-23"
   },
   {
    "id": 76,
